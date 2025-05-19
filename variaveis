@@ -1,0 +1,4 @@
+let jardineiro;
+let platas = [];
+let  temperatura = 10;
+let totalArvores = 0;
